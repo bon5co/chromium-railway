@@ -1,0 +1,3 @@
+#!/bin/sh
+set -u
+exec /opt/base/sbin/nginx -g 'daemon off;' -c /etc/cdp-proxy.conf
