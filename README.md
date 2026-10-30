@@ -1,5 +1,9 @@
 # chromium-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/chromium-or-just-updated-remote-browser-?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Chromium template](https://railway.com/deploy/chromium-or-just-updated-remote-browser-?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 A thin wrapper over [`jlesage/chromium`](https://github.com/jlesage/docker-chromium)
 that makes it deploy correctly on [Railway](https://railway.com):
 
